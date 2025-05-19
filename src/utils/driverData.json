@@ -1,0 +1,212 @@
+[
+  {
+    "driver": "Driver A",
+    "date": "2023-11-01",
+    "timeStart": "08:00:00",
+    "timeEnd": "09:15:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver A",
+    "date": "2023-11-01",
+    "timeStart": "09:15:00",
+    "timeEnd": "09:45:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver B",
+    "date": "2023-11-01",
+    "timeStart": "07:30:00",
+    "timeEnd": "08:45:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver B",
+    "date": "2023-11-01",
+    "timeStart": "08:45:00",
+    "timeEnd": "09:00:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver C",
+    "date": "2023-11-01",
+    "timeStart": "06:00:00",
+    "timeEnd": "07:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver C",
+    "date": "2023-11-01",
+    "timeStart": "07:00:00",
+    "timeEnd": "07:20:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver D",
+    "date": "2023-11-01",
+    "timeStart": "09:00:00",
+    "timeEnd": "10:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver D",
+    "date": "2023-11-01",
+    "timeStart": "10:00:00",
+    "timeEnd": "10:15:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver E",
+    "date": "2023-11-01",
+    "timeStart": "05:00:00",
+    "timeEnd": "06:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver E",
+    "date": "2023-11-01",
+    "timeStart": "06:00:00",
+    "timeEnd": "06:30:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver F",
+    "date": "2023-11-01",
+    "timeStart": "07:15:00",
+    "timeEnd": "08:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver F",
+    "date": "2023-11-01",
+    "timeStart": "08:00:00",
+    "timeEnd": "08:30:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver G",
+    "date": "2023-11-01",
+    "timeStart": "06:45:00",
+    "timeEnd": "07:30:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver G",
+    "date": "2023-11-01",
+    "timeStart": "07:30:00",
+    "timeEnd": "08:00:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver H",
+    "date": "2023-11-01",
+    "timeStart": "10:30:00",
+    "timeEnd": "11:30:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver H",
+    "date": "2023-11-01",
+    "timeStart": "11:30:00",
+    "timeEnd": "12:00:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver I",
+    "date": "2023-11-01",
+    "timeStart": "08:30:00",
+    "timeEnd": "09:30:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver I",
+    "date": "2023-11-01",
+    "timeStart": "09:30:00",
+    "timeEnd": "10:00:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver J",
+    "date": "2023-11-01",
+    "timeStart": "04:00:00",
+    "timeEnd": "05:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver J",
+    "date": "2023-11-01",
+    "timeStart": "05:00:00",
+    "timeEnd": "05:30:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver K",
+    "date": "2023-11-01",
+    "timeStart": "07:00:00",
+    "timeEnd": "08:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver K",
+    "date": "2023-11-01",
+    "timeStart": "08:00:00",
+    "timeEnd": "08:15:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver L",
+    "date": "2023-11-01",
+    "timeStart": "06:15:00",
+    "timeEnd": "07:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver L",
+    "date": "2023-11-01",
+    "timeStart": "07:00:00",
+    "timeEnd": "07:30:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver M",
+    "date": "2023-11-01",
+    "timeStart": "09:45:00",
+    "timeEnd": "10:30:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver M",
+    "date": "2023-11-01",
+    "timeStart": "10:30:00",
+    "timeEnd": "11:00:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver N",
+    "date": "2023-11-01",
+    "timeStart": "06:00:00",
+    "timeEnd": "07:00:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver N",
+    "date": "2023-11-01",
+    "timeStart": "07:00:00",
+    "timeEnd": "07:45:00",
+    "activity": "Resting"
+  },
+  {
+    "driver": "Driver O",
+    "date": "2023-11-01",
+    "timeStart": "08:30:00",
+    "timeEnd": "09:45:00",
+    "activity": "Driving"
+  },
+  {
+    "driver": "Driver O",
+    "date": "2023-11-01",
+    "timeStart": "09:45:00",
+    "timeEnd": "10:15:00",
+    "activity": "Resting"
+  }
+]

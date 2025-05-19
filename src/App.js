@@ -1,21 +1,14 @@
 
 import './App.css';
-import { useEffect } from 'react';
 
-import Drivers from './components/Drivers';
+import Dashboard from './components/Dashboard';
 
 function App() {
-
-  useEffect(() => {
-   
-    
-
-  }, []);
 
   return (
     <main className="h-screen my-8">
 
-      <Drivers />
+      <Dashboard />
     </main>
   );
 }

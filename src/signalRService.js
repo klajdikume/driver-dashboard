@@ -21,6 +21,11 @@ const signalRService = {
       });
     }
   },
+  addSingleDriveTimeViolationListener: function (callback) {
+    if (this.connection) {
+      this.connection.on("SingleDriveTimeViolation", callback);
+    }
+  },
 };
 
 export default signalRService;
