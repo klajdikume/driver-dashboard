@@ -14,6 +14,9 @@ const signalRService = {
       console.error("Error starting SignalR connection:", error);
     });
   },
+  stopConnection: function() {
+    this.connection.stop();
+  },
   addMessageListener: function(callback) {
     if (this.connection) {
       this.connection.on("DriverUpdated", message => {
@@ -21,6 +24,7 @@ const signalRService = {
       });
     }
   },
+
 };
 
 export default signalRService;

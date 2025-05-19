@@ -18,15 +18,17 @@ export default function Drivers() {
       })
       .then((data) => {
         data.forEach((activity) => {
-          if(activity.type.trim() === 'Driving') {
-            console.log(activity);
-            setTotalHourDrive(activity.totalHours);
-          }
-          if(activity.type.trim() === 'Resting') {
-            settotalHourRest(activity.totalHours)
-          }
-        })
-      });
+        console.log(activity);
+
+        if(activity.type.trim() === 'Driving') {
+          console.log(activity);
+          setTotalHourDrive(activity.totalHours);
+        }
+        if(activity.type.trim() === 'Resting') {
+          settotalHourRest(activity.totalHours)
+        }
+      })
+    });
 
     signalRService.startConnection();
 
@@ -42,6 +44,10 @@ export default function Drivers() {
         }
       })
     });
+
+    return () => {
+      signalRService.stopConnection();
+    }
 
    }, [totalHourDrive, totalHourRest]);
 
